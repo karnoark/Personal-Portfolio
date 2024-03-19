@@ -1,2 +1,2 @@
 # Personal-Portfolio
-Personal Portfolio using React
+Personal Portfolio Website
